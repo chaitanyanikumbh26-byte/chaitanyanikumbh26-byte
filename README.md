@@ -53,27 +53,11 @@ Hi, I'm Chaitanya Nikumbh 👋
 
 ---
 
-🔹 Student Management System
 
-- Basic CRUD application
-- Demonstrates data handling and structured programming
-- Tech: Java / Python
-
----
-
-🔹 Personal Portfolio Website (Coming Soon)
-
-- Will showcase projects and skills
-- Focus on clean UI and responsiveness
-
----
 
 📊 GitHub Stats
 
-<!-- You can enable these later -->"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
----
 
 📈 Contribution Activity
 
