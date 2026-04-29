@@ -72,7 +72,8 @@ I focus on consistent learning and meaningful contributions by:
 📫 Contact Me
 
 - LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your-email@example.com
+- Email: chaitanyanikumbh26@gmail.com
+  
 
 ---
 
