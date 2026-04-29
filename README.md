@@ -1,8 +1,8 @@
-Hi, I'm Chaitanya Nikumbh 👋
+Hi, I'm Chaitanya Nikumbh 
 
-🎓 2nd Year Computer Science Engineering Student
-💻 Aspiring Software Engineer focused on Backend Development
-🧠 Strong in Data Structures & Algorithms (Java)
+ ~2nd Year Computer Science Engineering Student
+ ~Aspiring Software Engineer focused on Backend Development
+ ~Strong in Data Structures & Algorithms (Java)
 
 ---
 
