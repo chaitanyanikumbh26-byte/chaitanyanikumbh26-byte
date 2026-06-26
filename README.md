@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chaitanya Nikumbh</h1>
-<h3 align="center">Frontend Developer|Software Engineer </h3>
+<h3 align="center">Frontend Developer | Java |Python | DSA |Software Engineer </h3>
 
 
 <!-- 🔥 Animated Typing Intro -->
