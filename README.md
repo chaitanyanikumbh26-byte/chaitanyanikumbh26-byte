@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Chaitanya Nikumbh</h1>
-<h3 align="center">Aspiring Software Engineer | CSE Student</h3>
+<h3 align="center">Frontend Developer|Software Engineer </h3>
+
 
 <!-- 🔥 Animated Typing Intro -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Year+CSE+Student;DSA+in+Java;Python+Developer;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
-Hi, I'm Chaitanya Nikumbh 
+
 
  
 📫 Contact Me
