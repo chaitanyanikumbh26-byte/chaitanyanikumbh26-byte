@@ -12,7 +12,7 @@
  
 📫 Contact Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/chaitanya-nikumbh-7a362439a
 - Email: chaitanyanikumbh26@gmail.com
   
 
